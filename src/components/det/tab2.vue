@@ -1,0 +1,56 @@
+<template>
+    <div class="article">
+        <table>
+            <tbody>
+                <tr>
+                    <th>尺寸</th>
+                    <td>均码</td>
+                </tr>
+                <tr>
+                    <th>肩宽</th>
+                    <td>78</td>
+                </tr>
+                <tr>
+                    <th>腰围</th>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <th>衣长</th>
+                    <td>98</td>
+                </tr>
+                <tr>
+                    <th>胸围</th>
+                    <td>130</td>
+                </tr>
+                <tr>
+                    <th>袖长</th>
+                    <td>41</td>
+                </tr>
+            </tbody>
+        </table>
+        <table>
+            <tbody>
+                <tr>
+                    <th>风格</th>
+                    <td>男友风</td>
+                </tr>
+                <tr>
+                    <th>厚度</th>
+                    <td>加厚</td>
+                </tr>
+                <tr>
+                    <th>填充物</th>
+                    <td>棉61%~70%</td>
+                </tr>
+                <tr>
+                    <th>版型</th>
+                    <td>直身</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</template>
+<script>
+    export default {}
+</script>
+<style lang="scss" scoped src="../../../static/assets/css/style.scss"></style>
