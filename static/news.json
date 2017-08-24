@@ -1,0 +1,60 @@
+{
+    "data": {
+        "result": [
+            {
+                "msg_content": "东西挺好的",
+                "msg_id": "499",
+                "msg_time": "1483616554",
+                "img": "http://img01.bqstatic.com//upload/activity/2016091915021646.jpg@90Q",
+                "user_id": "23686",
+                "user_name": "尊上",
+                "content": "东西挺好的东西挺好的东西挺好的东西挺好的东西挺好的"
+            },
+            {
+                "msg_content": "商家接单提醒",
+                "msg_id": "337",
+                "msg_time": "1481978013",
+                "img": "http://img01.bqstatic.com//upload/activity/2016092611533782.jpg@90Q", 
+                "user_id": "10709",
+                "user_name": "郭秋年",
+                "content": "商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒商家接单提醒"
+            },
+            {
+                "msg_content": "商店配送提醒",
+                "msg_id": "336",
+                "msg_time": "1481978013",
+                "img": "http://img01.bqstatic.com//upload/activity/2016092317171726.jpg@90Q", 
+                "user_id": "10709",
+                "user_name": "郭秋年",
+                "content": "商店配送提醒商店配送提醒商店配送提醒商店配送提醒商店配送提醒商店配送提醒商店配送提醒"
+            },
+            {
+                "msg_content": "站内信",
+                "msg_id": "335",
+                "msg_time": "1481978013",
+                "img": "http://img01.bqstatic.com//upload/activity/2016091810330511.jpg@90Q", 
+                "user_id": "10709",
+                "user_name": "郭秋年",
+                "content": "站内信站内信站内信站内信站内信站内信站内信"
+            },
+            {
+                "msg_content": "返利到账提醒",
+                "msg_id": "334",
+                "msg_time": "1481978013",
+                "img": "http://img01.bqstatic.com//upload/activity/2016092219211394.jpg@90Q", 
+                "user_id": "10709",
+                "user_name": "郭秋年",
+                "content": "返利到账提醒返利到账提醒返利到账提醒返利到账提醒返利到账提醒返利到账提醒返利到账提醒"
+            },
+            {
+                "msg_content": "提现成功",
+                "msg_id": "332",
+                "msg_time": "1481978013",
+                "img": "http://img01.bqstatic.com//upload/activity/2016092219211394.jpg@90Q", 
+                "user_id": "10709",
+                "user_name": "郭秋年",
+                "content": "提现成功提现成功提现成功提现成功提现成功提现成功提现成功提现成功"
+            }
+       ]
+    }
+}

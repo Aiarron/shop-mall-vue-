@@ -1,0 +1,11 @@
+.content {
+  width: 100%; }
+
+.spil {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }
+
+/*login*/
+
+/*# sourceMappingURL=base.css.map */

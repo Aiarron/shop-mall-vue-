@@ -1,0 +1,61 @@
+{
+    "data" : {
+        "result" : [
+            {
+                "title" : "佣金",
+                "time"  : "2016-12-28 12:20",
+                "type"  : "add",
+                "status": 0,
+                "money" : 50.00
+            },{
+                "title" : "返利",
+                "time"  : "2016-12-28 12:30",
+                "type"  : "minus",
+                "status": 1,
+                "money" : 50.00
+            },{
+                "title" : "支付",
+                "time"  : "2016-12-29 12:20",
+                "type"  : "minus",
+                "status": 2,
+                "money" : 50.00
+            },{
+                "title" : "提现",
+                "time"  : "2016-12-25 12:10",
+                "type"  : "add",
+                "status": 2,
+                "money" : 50.00
+            },{
+                "title" : "提现",
+                "time"  : "2016-12-28 12:50",
+                "type"  : "add",
+                "status": 0,
+                "money" : 50.00
+            },{
+                "title" : "退款",
+                "time"  : "2016-12-28 12:20",
+                "type"  : "add",
+                "status": 1,
+                "money" : 50.00
+            },{
+                "title" : "支付",
+                "time"  : "2016-12-28 12:20",
+                "type"  : "add",
+                "status": -1,
+                "money" : 50.00
+            },{
+                "title" : "佣金",
+                "time"  : "2016-12-26 12:20",
+                "type"  : "minus",
+                "status": 0,
+                "money" : 50.00
+            },{
+                "title" : "返利",
+                "time"  : "2016-12-21 12:20",
+                "type"  : "add",
+                "status": -1,
+                "money" : 50.00
+            }
+        ]
+    }
+}

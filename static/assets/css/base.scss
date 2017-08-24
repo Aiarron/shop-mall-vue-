@@ -1,0 +1,19 @@
+@import '../css/px2rem.scss';
+.content{
+    width: 100%;
+}
+.spil{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.clearfix {
+	*zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
